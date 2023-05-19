@@ -2,7 +2,7 @@
 
 This is an implementation of the paper<br/>
 
-Muhammad Farhan, Qing Wang, **[Efficient maintenance of highway cover labelling for distance queries on large dynamic graphs]([https://link.springer.com/article/10.1007/s00778-021-00707-z](https://link.springer.com/content/pdf/10.1007/s11280-023-01146-2.pdf))**, World Wide Web Journal.
+Muhammad Farhan, Qing Wang, **[Efficient maintenance of highway cover labelling for distance queries on large dynamic graphs](https://link.springer.com/content/pdf/10.1007/s11280-023-01146-2.pdf)**, World Wide Web Journal.
 
 ## Sample data format
 The format of the dataset text file is as follows: <br/>
