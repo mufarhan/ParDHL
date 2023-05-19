@@ -9,7 +9,7 @@ The format of the dataset text file is as follows: <br/>
 Line 1 : |V| |E| <br/>
 Line 2 : vertex_u deg_u v1 ... vn, where v1 to vn are neighbors of u. Note that the vertex id are from 0 to (V-1), where V is the number of vertices. There are no self loops in the graph, i.e., no edge from any vertex to itself. 
 
-To see the accepted format for graphs, updates and query pairs, you may refer to the Sample Data folder. After the test inputs are ready, please use the following commands to test FulHL.
+To see the accepted format for graphs, updates and query pairs, you may refer to the Sample Data folder. After the test inputs are ready, please use the following commands to test ParDHL.
 
 ## 1 - Compile source files
 
