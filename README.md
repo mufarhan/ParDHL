@@ -13,7 +13,7 @@ To see the accepted format for graphs, updates and query pairs, you may refer to
 
 ## 1 - Compile source files
 
-$ g++ -O3 -std=c++11 main.cpp -o run
+$ g++ -O3 -std=c++11 -pthread main.cpp -o run
 
 ## 2 - Construct Labelling
 ./run construct_labelling @1 @2 @3<br/>
